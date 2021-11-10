@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pj0204
 - 👀 I’m interested in excel advanced, power pivot, powerbi, phyton
 - 🌱 I’m currently learning all before.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 pj0204/pj0204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
